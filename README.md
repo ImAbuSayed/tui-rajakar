@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tui-rajakar/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Tui Rajakar](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tui-rajakar/) |
+| **Get License** | [License this song: Tui Rajakar](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tui-rajakar/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> ঘুটঘুটে এই আঁধার রাতে প্রেমের আগুন জ্বলে.. আগুন জ্বলে..
+> বুকের ভেতর স্মৃতির ঝড় একলা কথা বলে
+> বিষাদমাখা গিটারের সুর কাঁদায় আমার প্রাণ.. কাঁদায় প্রাণ..
+> তোমার ছায়ায় খুঁজে বেড়াই হারিয়ে যাওয়া গান
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
