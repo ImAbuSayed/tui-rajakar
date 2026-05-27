@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tui Rajakar
+
+This log tracks the cryptographic history and versioning for the song **Tui Rajakar** (tui-rajakar).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-27T23:51:50.859142 | `v1` | `02e1c3d5ac95cc32b6d41682821f34bb6929db1eda3476c566597f988ed285da` | `292a3670907cdbc318db38e1221b1a46bac4a6fe6d672a3864dcfee918e9c274` | `2026-05-27_tui-rajakar-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tui-rajakar/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Tui Rajakar](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tui-rajakar/) |
+| **Get License** | [Get License For Tui Rajakar](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tui-rajakar/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `02e1c3d5ac95cc32b6d41682821f34bb6929db1eda3476c566597f988ed285da` |
 | **Timestamp** | May 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
